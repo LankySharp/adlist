@@ -1,0 +1,3 @@
+practiscore-sponsors.s3.amazonaws.com/1*-image.*g
+practiscore-sponsors.s3.amazonaws.com
+practiscore-sponsors.s3.amazonaws.com/*
